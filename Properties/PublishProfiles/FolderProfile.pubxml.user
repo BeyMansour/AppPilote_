@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\APPS\appilote</_PublishTargetUrl>
+    <History>True|2022-07-03T10:41:24.0138860Z;True|2022-07-03T12:19:43.1304424+02:00;False|2022-07-03T12:19:02.9946889+02:00;True|2022-07-03T12:10:58.3670007+02:00;True|2022-07-03T12:04:06.1289702+02:00;False|2022-07-03T11:59:01.1400496+02:00;True|2022-07-03T11:44:36.3822091+02:00;True|2022-07-02T19:50:15.2367149+02:00;</History>
+  </PropertyGroup>
+</Project>

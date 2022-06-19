@@ -14,5 +14,6 @@
     <WebStackScaffolding_IsReferencingScriptLibrariesSelected>True</WebStackScaffolding_IsReferencingScriptLibrariesSelected>
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>AppPilote.Data.AppPiloteContext</WebStackScaffolding_DbContextTypeFullName>
+    <NameOfLastUsedPublishProfile>D:\APPS\DEV\ProjetPilote\APPCodes\AppPilote\Properties\PublishProfiles\FolderProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
